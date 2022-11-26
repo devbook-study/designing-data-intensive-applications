@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-- 아이템 번호 : 
-- 제목 : 
+- Sub Chapter 
+    
 - 만료일 :
